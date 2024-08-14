@@ -8,3 +8,6 @@ Just an exercise to keep updated. A simple app to manage a chess club.
 - A simple database like mysql to store the data
 - A simple web interface to manage: create, edit, remove, list.
 - Maybe latter some REST APIs but not in this moment
+
+Monitoring is not optional, so actuator will be used.
+Maybe not a docker usage at this point.
